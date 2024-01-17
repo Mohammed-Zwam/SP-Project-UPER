@@ -1,5 +1,5 @@
 # SP-Project-UPER
-Structured Programming Project | FCIS | 1st Year
+Structured Programming Project | FCIS-ASU | 1st Year
 
 
 ## Latest version: https://drive.google.com/file/d/14ZRT8ftYZqw8fXnAskIcGvvrzct4kcYU/view?usp=sharing
